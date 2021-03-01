@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="543b357a-d334-4f98-bee9-ae7501155db7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/middle-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/middle-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/omikuji/kitikiti.js" beforeDir="false" afterPath="$PROJECT_DIR$/kitikiti.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/omikuji/omikuji.html" beforeDir="false" afterPath="$PROJECT_DIR$/omikuji.html" afterDir="false" />
-    </list>
+    <list default="true" id="543b357a-d334-4f98-bee9-ae7501155db7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +30,7 @@
       <updated>1613482564539</updated>
       <workItem from="1613482565963" duration="700000" />
       <workItem from="1613555662640" duration="362000" />
+      <workItem from="1614622101574" duration="75000" />
     </task>
     <servers />
   </component>
