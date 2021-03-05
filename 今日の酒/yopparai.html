@@ -3,19 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <title>今日のお酒</title>
+
 </head>
 <body>
-<p style="text-align: center;">
-    <div class>
-    <input type="button" value="今日のお酒" onclick="onClick()">
-    </div>
-    <div class>
-    <input type="button" value="今日のお酒" onclick="atClick()">
-    </div>
-    <div>
-    <input type="button" value="今日のお酒" onclick="theClick()">
-    </div>
-    <img id="umesyu" alt="" src = "omikuji-origin.png"></p>
-<script type="text/javascript" src="beer.js"></script>
+
+<div id="text-button"
+     style="display: block;
+cursor: pointer;
+width: 160px;
+text-align: center;
+border: 1px solid #232323;">
+    <a href="#link1" id="imageArea"><p>クリック</p></a>
+
+    <script src="./beer.js"></script>
+</div>
+
+<div>
+    <img src="sake-sozai/osake1.jpeg"
+         style="height: 100vh"
+         width="100%">
+    <a name="link1">ジャンプ先1</a>
+
+    <img src="sake-sozai/osake2.jpeg"
+         style="height: 100vh"
+         width="100%">
+
+    <a name="link2">ジャンプ先2</a>
+</div>
 </body>
 </html>
