@@ -56,10 +56,14 @@ document.getElementById("text-button5").onclick = function () {	// 適当に選�
 myTable6 = new Array(
     "#link16",
     "#link17",
-    "link18"
+    "#link18"
 );
 
 document.getElementById("text-button6").onclick = function () {	// 適当に選んでリンクする関数
     myRnd6 = Math.floor(Math.random() * myTable6.length);
     window.location.href = myTable6[myRnd6];
+}
+
+document.getElementById("fixed_btn").onclick = function (){
+    window.location.href = "#pagetop";
 }
