@@ -1,7 +1,7 @@
 myTable1 = new Array(
     "#link1",
     "#link2",
-    "link3"
+    "#link3"
 );
 
 document.getElementById("text-button1").onclick = function () {	// 適当に選んでリンクする関数
@@ -12,7 +12,7 @@ document.getElementById("text-button1").onclick = function () {	// 適当に選�
 myTable2 = new Array(
     "#link4",
     "#link5",
-    "link6"
+    "#link6"
 );
 
 document.getElementById("text-button2").onclick = function () {	// 適当に選んでリンクする関数
@@ -23,7 +23,7 @@ document.getElementById("text-button2").onclick = function () {	// 適当に選�
 myTable3 = new Array(
     "#link7",
     "#link8",
-    "link9"
+    "#link9"
 );
 
 document.getElementById("text-button3").onclick = function () {	// 適当に選んでリンクする関数
@@ -34,7 +34,7 @@ document.getElementById("text-button3").onclick = function () {	// 適当に選�
 myTable4 = new Array(
     "#link10",
     "#link11",
-    "link12"
+    "#link12"
 );
 
 document.getElementById("text-button4").onclick = function () {	// 適当に選んでリンクする関数
@@ -45,7 +45,7 @@ document.getElementById("text-button4").onclick = function () {	// 適当に選�
 myTable5 = new Array(
     "#link13",
     "#link14",
-    "link15"
+    "#link15"
 );
 
 document.getElementById("text-button5").onclick = function () {	// 適当に選んでリンクする関数
