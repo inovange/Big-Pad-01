@@ -64,6 +64,10 @@ document.getElementById("text-button6").onclick = function () {	// 適当に選�
     window.location.href = myTable6[myRnd6];
 }
 
-document.getElementById("fixed_btn").onclick = function (){
+document.getElementById("fixed_btn_first").onclick = function (){
     window.location.href = "#pagetop";
+}
+
+document.getElementById("fixed_btn_home").onclick = function (){
+    window.location.href = "./Big-Pad-01/index.html";
 }

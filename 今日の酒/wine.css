@@ -1,8 +1,17 @@
-.fixed_btn {
+.fixed_btn_first {
     position: fixed;
     bottom: 10px;
     right: 10px;
     padding: 6px 40px;
+    border-radius: 30px;
+}
+
+.fixed_btn_home{
+    position: fixed;
+    bottom: 50px;
+    right: 10px;
+    padding: 6px 40px;
+    border-radius: 30px;
 }
 
 .firstpage_1 {
@@ -13,10 +22,26 @@
     float: left;
     align-items: center;
     justify-content: center;
+    margin-top: 5%;
 }
 
-.firastpage_2 {
-    height: 100vh;
+.firstpage_2 {
+    display: flex;
+    flex-direction: column;
+    height: auto;
     width: 50%;
     float: right;
+    align-items: center;
+    justify-content: center;
+}
+
+.firstpageR {
+    background: url("sake-sozai/menu.png");
+    min-height: 100vh;
+    width: 100%;
+    position: relative;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
