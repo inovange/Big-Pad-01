@@ -1,0 +1,71 @@
+.fixed_btn_first {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    padding: 6px 40px;
+    border-radius: 30px;
+}
+
+.fixed_btn_home{
+    position: fixed;
+    bottom: 50px;
+    right: 10px;
+    padding: 6px 40px;
+    border-radius: 30px;
+}
+
+.firstpage_1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    float: left;
+}
+
+.firstpage_2 {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 50%;
+    float: right;
+    align-items: center;
+    justify-content: center;
+}
+
+.firstpageR {
+    background: url("sake-sozai/menu-.jpg");
+    min-height: 100vh;
+    width: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+}
+
+.text-button1{
+    color: #6594e0;
+}
+
+.text-button2{
+    color: #6594e0;
+}
+
+.text-button3{
+    color: #6594e0;/*文字色*/
+    /*線の種類（点線）2px 線色*/
+}
+
+.text-button4{
+    color: #6594e0;/*文字色*/
+}
+
+.text-button5{
+    color: #6594e0;/*文字色*/
+    /*線の種類（点線）2px 線色*/
+}
+
+.text-button6{
+    color: #6594e0;/*文字色*/
+    /*線の種類（点線）2px 線色*/
+    margin-top: 60%;
+    margin-right: 28%;
+}
