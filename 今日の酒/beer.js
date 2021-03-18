@@ -69,5 +69,5 @@ document.getElementById("fixed_btn_first").onclick = function (){
 }
 
 document.getElementById("fixed_btn_home").onclick = function (){
-    window.location.href = "./Big-Pad-01/index.html";
+    window.location.href = "/Users/toyonagayuusei/Big-Pad-01/index.html";
 }

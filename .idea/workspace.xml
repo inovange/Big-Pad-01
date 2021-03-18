@@ -3,31 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="543b357a-d334-4f98-bee9-ae7501155db7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iventManagement.js" beforeDir="false" afterPath="$PROJECT_DIR$/iventManagement.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/イベント.html" beforeDir="false" afterPath="$PROJECT_DIR$/イベント.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/今日の酒/sake-sozai/osake1.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake10.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/今日の酒/sake-sozai/osake10.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake11.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/今日の酒/sake-sozai/osake11.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake12.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/今日の酒/sake-sozai/osake12.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake13.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/今日の酒/sake-sozai/osake13.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake14.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/今日の酒/sake-sozai/osake14.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake15.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/今日の酒/sake-sozai/osake15.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake16.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/今日の酒/sake-sozai/osake16.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake17.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/今日の酒/sake-sozai/osake17.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake18.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/今日の酒/sake-sozai/osake18.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake19.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/今日の酒/sake-sozai/osake2.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake20.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/今日の酒/sake-sozai/osake3.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/今日の酒/sake-sozai/osake4.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake5.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/今日の酒/sake-sozai/osake5.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake6.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/今日の酒/sake-sozai/osake6.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake7.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/今日の酒/sake-sozai/osake7.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake8.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake9.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/今日の酒/sake-sozai/osake9.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/beer.js" beforeDir="false" afterPath="$PROJECT_DIR$/今日の酒/beer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake8.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/今日の酒/wine.css" beforeDir="false" afterPath="$PROJECT_DIR$/今日の酒/wine.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/今日の酒/yopparai.html" beforeDir="false" afterPath="$PROJECT_DIR$/今日の酒/yopparai.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/管理.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +51,7 @@
       <workItem from="1614622101574" duration="75000" />
       <workItem from="1614958925771" duration="69000" />
       <workItem from="1614959011082" duration="569000" />
-      <workItem from="1614960267160" duration="34206000" />
+      <workItem from="1614960267160" duration="40992000" />
     </task>
     <servers />
   </component>
