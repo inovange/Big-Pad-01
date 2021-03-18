@@ -1,0 +1,14 @@
+#omikuji {
+    width: 100%;
+}
+
+.button {
+    text-align: center;
+}
+
+input[type="button"] {
+    background-color: black;
+    color: #E6E6E6;
+    height: 50px;
+    margin-top: -20px;
+}
