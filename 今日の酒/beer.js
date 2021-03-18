@@ -1,39 +1,73 @@
-function onClick () {
-    const texts = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20"]
-    const images = ["osake1.jpeg", "osake2.jpeg", "osake3.jpeg", "osake4.jpeg", "osake5.jpeg", "osake6.jpeg", "osake7.jpeg", "osake8.jpeg", "osake9.jpeg", "osake10.jpeg", "osake11.jpeg", "osake12.jpeg", "osake13.jpeg", "osake14.jpeg", "osake15.jpeg", "osake16.jpeg", "osake17.jpeg", "osake18.jpeg", "osake19.jpeg", "osake20.jpeg"]
-    setImage("umesyu", texts, images)
+myTable1 = new Array(
+    "#link1",
+    "#link2",
+    "#link3"
+);
+
+document.getElementById("text-button1").onclick = function () {	// 適当に選んでリンクする関数
+    myRnd1 = Math.floor(Math.random() * myTable1.length);
+    window.location.href = myTable1[myRnd1];
 }
 
-function setImage (id, texts, images) {
-    const resultInt = Math.floor(Math.random() * images.length);
-    const resultText = texts[resultInt]
-    const resultImg = images[resultInt]
-    document.getElementById(id).src = "sake-sozai/" + resultImg;
-    document.getElementById(id).alt = resultText;
-}
-function atClick () {
-    const texts = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20"]
-    const images = ["osake1.jpeg", "osake2.jpeg", "osake3.jpeg", "osake4.jpeg", "osake5.jpeg", "osake6.jpeg", "osake7.jpeg", "osake8.jpeg", "osake9.jpeg", "osake10.jpeg", "osake11.jpeg", "osake12.jpeg", "osake13.jpeg", "osake14.jpeg", "osake15.jpeg", "osake16.jpeg", "osake17.jpeg", "osake18.jpeg", "osake19.jpeg", "osake20.jpeg"]
-    setImage("umesyu", texts, images)
+myTable2 = new Array(
+    "#link4",
+    "#link5",
+    "#link6"
+);
+
+document.getElementById("text-button2").onclick = function () {	// 適当に選んでリンクする関数
+    myRnd2 = Math.floor(Math.random() * myTable2.length);
+    window.location.href = myTable2[myRnd2];
 }
 
-function setImage (id, texts, images) {
-    const resultInt = Math.floor(Math.random() * images.length);
-    const resultText = texts[resultInt]
-    const resultImg = images[resultInt]
-    document.getElementById(id).src = "sake-sozai/" + resultImg;
-    document.getElementById(id).alt = resultText;
-}
-function theClick () {
-    const texts = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20"]
-    const images = ["osake1.jpeg", "osake2.jpeg", "osake3.jpeg", "osake4.jpeg", "osake5.jpeg", "osake6.jpeg", "osake7.jpeg", "osake8.jpeg", "osake9.jpeg", "osake10.jpeg", "osake11.jpeg", "osake12.jpeg", "osake13.jpeg", "osake14.jpeg", "osake15.jpeg", "osake16.jpeg", "osake17.jpeg", "osake18.jpeg", "osake19.jpeg", "osake20.jpeg"]
-    setImage("umesyu", texts, images)
+myTable3 = new Array(
+    "#link7",
+    "#link8",
+    "#link9"
+);
+
+document.getElementById("text-button3").onclick = function () {	// 適当に選んでリンクする関数
+    myRnd3 = Math.floor(Math.random() * myTable3.length);
+    window.location.href = myTable3[myRnd3];
 }
 
-function setImage (id, texts, images) {
-    const resultInt = Math.floor(Math.random() * images.length);
-    const resultText = texts[resultInt]
-    const resultImg = images[resultInt]
-    document.getElementById(id).src = "sake-sozai/" + resultImg;
-    document.getElementById(id).alt = resultText;
+myTable4 = new Array(
+    "#link10",
+    "#link11",
+    "#link12"
+);
+
+document.getElementById("text-button4").onclick = function () {	// 適当に選んでリンクする関数
+    myRnd4 = Math.floor(Math.random() * myTable4.length);
+    window.location.href = myTable4[myRnd4];
+}
+
+myTable5 = new Array(
+    "#link13",
+    "#link14",
+    "#link15"
+);
+
+document.getElementById("text-button5").onclick = function () {	// 適当に選んでリンクする関数
+    myRnd5 = Math.floor(Math.random() * myTable5.length);
+    window.location.href = myTable5[myRnd5];
+}
+
+myTable6 = new Array(
+    "#link16",
+    "#link17",
+    "#link18"
+);
+
+document.getElementById("text-button6").onclick = function () {	// 適当に選んでリンクする関数
+    myRnd6 = Math.floor(Math.random() * myTable6.length);
+    window.location.href = myTable6[myRnd6];
+}
+
+document.getElementById("fixed_btn_first").onclick = function (){
+    window.location.href = "#pagetop";
+}
+
+document.getElementById("fixed_btn_home").onclick = function (){
+    window.location.href = "/Users/toyonagayuusei/Big-Pad-01/index.html";
 }
