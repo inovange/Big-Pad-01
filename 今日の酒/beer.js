@@ -69,5 +69,7 @@ document.getElementById("fixed_btn_first").onclick = function (){
 }
 
 document.getElementById("fixed_btn_home").onclick = function (){
-    window.location.href = "/Users/toyonagayuusei/Big-Pad-01/index.html";
+    window.location.href = "http://localhost:63342/Big-Pad-01/index.html?_ijt=4jh9tb2hokf0mvecedop9h8q20";
 }
+
+setTimeout(function(){location.href="http://localhost:63342/Big-Pad-01/index.html?_ijt=7bno6imqsvdfmrqed9scgddel0"} , 8000);

@@ -3,7 +3,7 @@ var slotImg = [
     {Img: 'slot1.jpg', Url: "http://localhost:63342/big-pad-1/omikuji.html?_ijt=m3bk1mguu74de7alm1tn3h853g" },
     {Img: 'slot2.jpg', Url: "https://www.google.co.jp" },
     {Img: 'slot3.jpg', Url: "https://www.yahoo.co.jp" },
-    {Img: 'slot4.jpg', Url: "https://twitter.com" },
+    {Img: 'slot4.jpg', Url: "http://localhost:63342/Big-Pad-01/%E4%BB%8A%E6%97%A5%E3%81%AE%E9%85%92/yopparai.html?_ijt=g9kvv12n7as7i3erorhbgrfvap" },
     {Img: 'slot5.jpg', Url: "https://www.instagram.com"},];
 // 縦に並べるスロット画像の数
 var slotNum = 50;
@@ -36,7 +36,7 @@ function slotCreate(obj) {
     for (var i = 0; i < slotNum; i++) {
         // 画像ファイルは配列からランダムに取得
         var idx = (i + random) % slotImg.length
-        obj.append("<img src='images/" + slotImg[idx].Img + "'/>");
+        obj.append("<img src='slot/images/" + slotImg[idx].Img + "'/>");
     }
 
     // スロット画像のスタート位置を設定

@@ -33,7 +33,7 @@ html,body{
 }
 /*slot背景*/
 .slot-page{
-    background-image: url("images/slot-toppage.jpg");
+    background-image: url("slot/images/slot-toppage.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
@@ -41,10 +41,31 @@ html,body{
 
 }
 /*startボタン*/
-.input-button{
-    margin-left: 250px;
-}
-input[type="button"]{
+input[type="button"] {
     margin-top: 35px;
     height: 40px;
+    margin-left: 230px;
+    animation: flash 1s ease infinite alternate;
 }
+@keyframes flash {
+    0%,100%{
+        opacity: 1;
+    }
+
+    25%{
+        opacity: 1;
+        color:#7fff00;
+    }
+
+    50%{
+        opacity: 1;
+        color:#0091EA;
+    }
+
+    75%{
+        opacity: 1;
+        color:#ff1493;
+    }
+}
+
+
