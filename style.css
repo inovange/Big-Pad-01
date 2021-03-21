@@ -1,6 +1,6 @@
 html,body{
     height: 100%;
-    background-color: #E6E6E6;
+    background-color: #BDCCD4;
     padding: 0;
     margin: 0;
 }
@@ -9,7 +9,7 @@ html,body{
 }
 /*slotの枠線*/
 #slots_a, #slots_b, #slots_c {
-    margin-top: 250px;
+    margin-top: 20px;
     float: left;
     width: 192px;
     height: 96px;
@@ -33,18 +33,19 @@ html,body{
 }
 /*slot背景*/
 .slot-page{
-    background-image: url("slot/images/slot-toppage.jpg");
+    background-image: url("slot/images/slot-toppage.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
     height: 100%;
-
 }
 /*startボタン*/
 input[type="button"] {
-    margin-top: 35px;
-    height: 40px;
-    margin-left: 230px;
+    margin-top: 360px;
+    height: 50px;
+    width: 200px;
+    margin-left: 200px;
+    font-size: x-large;
     animation: flash 1s ease infinite alternate;
 }
 @keyframes flash {
@@ -67,5 +68,3 @@ input[type="button"] {
         color:#ff1493;
     }
 }
-
-
