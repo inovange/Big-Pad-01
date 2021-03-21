@@ -5,8 +5,8 @@
     display: inline-block;
     padding: 0.5em 1em;
     text-decoration: none;
-    background: #999966; /*ボタン色*/
-    color: #999966; /*ボタン色と同じに*/
+    background: #4682B4; /*ボタン色*/
+    color: #4682B4; /*ボタン色と同じに*/
     box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);
     border-bottom: solid 3px #627295;
     border-radius: 3px; /*角の丸み*/
@@ -29,8 +29,8 @@
     right: 3%;
     padding: 0.5em 1em;
     text-decoration: none;
-    background: #999966; /*ボタン色*/
-    color: #999966; /*ボタン色と同じに*/
+    background: #4682B4; /*ボタン色*/
+    color: #4682B4; /*ボタン色と同じに*/
     box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);
     border-bottom: solid 3px #627295;
     border-radius: 3px; /*角の丸み*/
@@ -109,4 +109,102 @@
     margin-top: 60%;
     margin-right: 28%;
     border-bottom: double #9999FF;
+}
+
+.container {
+    background-color: #000022;
+}
+
+.contents{
+    background-color: #000022;
+}
+
+.link1{
+    display: block;
+    margin: auto;
+}
+
+.link2{
+    display: block;
+    margin: auto;
+}
+
+.link3{
+    display: block;
+    margin: auto;
+}
+
+.link4{
+    display: block;
+    margin: auto;
+}
+
+.link5{
+    display: block;
+    margin: auto;
+}
+
+.link6{
+    display: block;
+    margin: auto;
+}
+
+.link7{
+    display: block;
+    margin: auto;
+}
+
+.link8{
+    display: block;
+    margin: auto;
+}
+
+.link9{
+    display: block;
+    margin: auto;
+}
+
+.link10{
+    display: block;
+    margin: auto;
+}
+
+.link11{
+    display: block;
+    margin: auto;
+}
+
+.link12{
+    display: block;
+    margin: auto;
+}
+
+.link13{
+    display: block;
+    margin: auto;
+}
+
+.link14{
+    display: block;
+    margin: auto;
+}
+
+.link15{
+    display: block;
+    margin: auto;
+}
+
+.link16{
+    display: block;
+    margin: auto;
+}
+
+.link17{
+    display: block;
+    margin: auto;
+}
+
+.link18{
+    display: block;
+    margin: auto;
 }
