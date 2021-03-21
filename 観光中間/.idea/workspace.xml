@@ -10,8 +10,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -35,6 +35,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/kankorink" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -48,14 +49,36 @@
       <workItem from="1613570914919" duration="3362000" />
       <workItem from="1613673223500" duration="190000" />
       <workItem from="1613996722640" duration="12000" />
-      <workItem from="1614752502769" duration="202000" />
-      <workItem from="1614752826898" duration="4000" />
-      <workItem from="1614752975575" duration="9000" />
-      <workItem from="1614752986978" duration="1000" />
+      <workItem from="1614752996794" duration="8410000" />
+      <workItem from="1614866970279" duration="367000" />
+      <workItem from="1614947305487" duration="36000" />
+      <workItem from="1615196209712" duration="5394000" />
+      <workItem from="1615538560250" duration="523000" />
+      <workItem from="1615816384453" duration="2331000" />
+      <workItem from="1615820269259" duration="1632000" />
+      <workItem from="1616073651255" duration="989000" />
+      <workItem from="1616317783640" duration="7632000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="354" y="132" key="#Inspections" timestamp="1616323519468">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="354" y="132" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1616323519468" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/kankou--.js</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
