@@ -1,10 +1,10 @@
 // スロット画像配列
 var slotImg = [
-    {Img: 'slot1.jpg', Url: "/omikuji.html" },
+    {Img: 'slot1.jpg', Url: "./omikuji.html" },
     {Img: 'slot2.jpg', Url: "https://sketch.lab.city.toyama.toyama.jp/" },
-    {Img: 'slot3.jpg', Url: "https://www.yahoo.co.jp" },
-    {Img: 'slot4.jpg', Url: "http://localhost:63342/Big-Pad-01/%E4%BB%8A%E6%97%A5%E3%81%AE%E9%85%92/yopparai.html?_ijt=g9kvv12n7as7i3erorhbgrfvap" },
-    {Img: 'slot5.jpg', Url: "https://www.instagram.com"},];
+    {Img: 'slot3.jpg', Url: "./hana/hana.html" },
+    {Img: 'slot4.jpg', Url: "./osake/yopparai.html" },
+    {Img: 'slot5.jpg', Url: "./kankou/kankou---.html"},];
 // 縦に並べるスロット画像の数
 var slotNum = 50;
 // スロット画像のスタート位置

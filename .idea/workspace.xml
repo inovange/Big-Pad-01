@@ -2,13 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="543b357a-d334-4f98-bee9-ae7501155db7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/slot/images/slot-toppage.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kitikiti.js" beforeDir="false" afterPath="$PROJECT_DIR$/kitikiti.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slot/images/slot-toppage-new.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slot/images/slot-toppage.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hana/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/osake/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/osake/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/beer.js" beforeDir="false" afterPath="$PROJECT_DIR$/osake/beer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/menu-.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/osake/sake-sozai/menu-.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/osake/sake-sozai/osake1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake10.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/osake/sake-sozai/osake10.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake11.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/osake/sake-sozai/osake11.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake12.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/osake/sake-sozai/osake12.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake13.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/osake/sake-sozai/osake13.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake14.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/osake/sake-sozai/osake14.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake15.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/osake/sake-sozai/osake15.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake16.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/osake/sake-sozai/osake16.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake17.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/osake/sake-sozai/osake17.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake18.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/osake/sake-sozai/osake18.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/osake/sake-sozai/osake2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/osake/sake-sozai/osake3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/osake/sake-sozai/osake4.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake5.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/osake/sake-sozai/osake5.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake6.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/osake/sake-sozai/osake6.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake7.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/osake/sake-sozai/osake7.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake8.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/osake/sake-sozai/osake8.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/sake-sozai/osake9.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/osake/sake-sozai/osake9.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/wine.css" beforeDir="false" afterPath="$PROJECT_DIR$/osake/wine.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/今日の酒/yopparai.html" beforeDir="false" afterPath="$PROJECT_DIR$/osake/yopparai.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/花/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kankou/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/花/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hana/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/花/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hana/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/花/.idea/観光.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hana/.idea/観光.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/花/hana-box/01.png" beforeDir="false" afterPath="$PROJECT_DIR$/hana/hana-box/01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/花/hana-box/02.png" beforeDir="false" afterPath="$PROJECT_DIR$/hana/hana-box/02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/花/hana-box/03.png" beforeDir="false" afterPath="$PROJECT_DIR$/hana/hana-box/03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/花/hana-box/0301.png" beforeDir="false" afterPath="$PROJECT_DIR$/hana/hana-box/0301.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/花/hana-box/0302.png" beforeDir="false" afterPath="$PROJECT_DIR$/hana/hana-box/0302.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/花/hana-box/04.png" beforeDir="false" afterPath="$PROJECT_DIR$/hana/hana-box/04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/花/hana-box/05.png" beforeDir="false" afterPath="$PROJECT_DIR$/hana/hana-box/05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/花/hana-box/06.png" beforeDir="false" afterPath="$PROJECT_DIR$/hana/hana-box/06.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/花/hana-box/07.png" beforeDir="false" afterPath="$PROJECT_DIR$/hana/hana-box/07.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/花/hana-box/08.png" beforeDir="false" afterPath="$PROJECT_DIR$/hana/hana-box/08.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/花/hana-box/09.png" beforeDir="false" afterPath="$PROJECT_DIR$/hana/hana-box/09.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/花/hana-box/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/hana/hana-box/10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/花/hana-box/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/hana/hana-box/11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/花/hana-box/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/hana/hana-box/12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/花/hana-orign.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/hana/hana-orign.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/花/hana.html" beforeDir="false" afterPath="$PROJECT_DIR$/hana/hana.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/花/ohana.js" beforeDir="false" afterPath="$PROJECT_DIR$/hana/ohana.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/観光中間/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/osake/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/観光中間/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kankou/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/観光中間/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kankou/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/観光中間/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kankou/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/観光中間/.idea/観光中間.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kankou/.idea/観光中間.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/観光中間/kankou---.html" beforeDir="false" afterPath="$PROJECT_DIR$/kankou/kankou---.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/観光中間/kankou--.html" beforeDir="false" afterPath="$PROJECT_DIR$/kankou/kankou--.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/観光中間/kankou--.js" beforeDir="false" afterPath="$PROJECT_DIR$/kankou/kankou--.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/観光中間/kankou.html" beforeDir="false" afterPath="$PROJECT_DIR$/kankou/kankou.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/観光中間/kankou1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/kankou/kankou1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/観光中間/kankou11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/kankou/kankou11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/観光中間/kannkou-botan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/kankou/kannkou-botan.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/観光中間/toyama.js" beforeDir="false" afterPath="$PROJECT_DIR$/kankou/toyama.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/観光中間/umiyama.css" beforeDir="false" afterPath="$PROJECT_DIR$/kankou/umiyama.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +103,11 @@
       <recent name="C:\Users\hirot\Big-Pad-01\slot\images-omikuji" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hirot\Big-Pad-01\hana" />
+      <recent name="C:\Users\hirot\Big-Pad-01\kankou" />
+      <recent name="C:\Users\hirot\Big-Pad-01\osake" />
       <recent name="C:\Users\hirot\Big-Pad-01" />
+      <recent name="C:\Users\hirot\Big-Pad-01\hana\.idea" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -68,7 +128,8 @@
       <workItem from="1616080366476" duration="3193000" />
       <workItem from="1616168827174" duration="6487000" />
       <workItem from="1616242622503" duration="1220000" />
-      <workItem from="1616304481840" duration="8288000" />
+      <workItem from="1616304481840" duration="17796000" />
+      <workItem from="1616389867533" duration="948000" />
     </task>
     <servers />
   </component>
