@@ -1,25 +1,63 @@
 .fixed_btn_first {
     position: fixed;
-    bottom: 10px;
-    right: 10px;
-    padding: 6px 40px;
-    border-radius: 30px;
+    bottom: 10%;
+    right: 3%;
+    display: inline-block;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    background: #4682B4; /*ボタン色*/
+    color: #4682B4; /*ボタン色と同じに*/
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);
+    border-bottom: solid 3px #627295;
+    border-radius: 3px; /*角の丸み*/
+    font-weight: bold;
+    text-shadow: -1px -1px rgba(255, 255, 255, 0.44), 1px 1px rgba(0, 0, 0, 0.38);
 }
 
-.fixed_btn_home{
+.fixed_btn_first:active {
+    /*ボタンを押したとき*/
+    -webkit-transform: translateY(4px);
+    transform: translateY(4px);
+    box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.2);
+    border-bottom: none;
+}
+
+.fixed_btn_home {
+    display: inline-block;
     position: fixed;
-    bottom: 50px;
-    right: 10px;
-    padding: 6px 40px;
-    border-radius: 30px;
+    bottom: 2%;
+    right: 3%;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    background: #4682B4; /*ボタン色*/
+    color: #4682B4; /*ボタン色と同じに*/
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);
+    border-bottom: solid 3px #627295;
+    border-radius: 3px; /*角の丸み*/
+    font-weight: bold;
+    text-shadow: -1px -1px rgba(255, 255, 255, 0.44), 1px 1px rgba(0, 0, 0, 0.38);
+}
+
+.fixed_btn_home:active {
+    /*ボタンを押したとき*/
+    -webkit-transform: translateY(4px);
+    transform: translateY(4px);
+    box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.2);
+    border-bottom: none;
 }
 
 .firstpage_1 {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
     float: left;
+    height: 100vh;
+    width: 50%;
+}
+
+.firstpage_1_1 {
+    top: 40%;
+    left: 28%;
+    position: absolute;
 }
 
 .firstpage_2 {
@@ -41,31 +79,132 @@
     background-size: auto 100%;
 }
 
-.text-button1{
-    color: #6594e0;
+.text-button1 {
+    color: #9999FF;
+    border-bottom: double #9999FF;
 }
 
-.text-button2{
-    color: #6594e0;
+.text-button2 {
+    color: #9999FF;
+    border-bottom: double #9999FF;
 }
 
-.text-button3{
-    color: #6594e0;/*文字色*/
-    /*線の種類（点線）2px 線色*/
+.text-button3 {
+    color: #9999FF;
+    border-bottom: double #9999FF;
 }
 
-.text-button4{
-    color: #6594e0;/*文字色*/
+.text-button4 {
+    color: #9999FF; /*文字色*/
+    border-bottom: double #9999FF;
 }
 
-.text-button5{
-    color: #6594e0;/*文字色*/
-    /*線の種類（点線）2px 線色*/
+.text-button5 {
+    color: #9999FF;
+    border-bottom: double #9999FF;
 }
 
-.text-button6{
-    color: #6594e0;/*文字色*/
-    /*線の種類（点線）2px 線色*/
+.text-button6 {
+    color: #9999FF;
     margin-top: 60%;
     margin-right: 28%;
+    border-bottom: double #9999FF;
+}
+
+.container {
+    background-color: #000022;
+}
+
+.contents{
+    background-color: #000022;
+}
+
+.link1{
+    display: block;
+    margin: auto;
+}
+
+.link2{
+    display: block;
+    margin: auto;
+}
+
+.link3{
+    display: block;
+    margin: auto;
+}
+
+.link4{
+    display: block;
+    margin: auto;
+}
+
+.link5{
+    display: block;
+    margin: auto;
+}
+
+.link6{
+    display: block;
+    margin: auto;
+}
+
+.link7{
+    display: block;
+    margin: auto;
+}
+
+.link8{
+    display: block;
+    margin: auto;
+}
+
+.link9{
+    display: block;
+    margin: auto;
+}
+
+.link10{
+    display: block;
+    margin: auto;
+}
+
+.link11{
+    display: block;
+    margin: auto;
+}
+
+.link12{
+    display: block;
+    margin: auto;
+}
+
+.link13{
+    display: block;
+    margin: auto;
+}
+
+.link14{
+    display: block;
+    margin: auto;
+}
+
+.link15{
+    display: block;
+    margin: auto;
+}
+
+.link16{
+    display: block;
+    margin: auto;
+}
+
+.link17{
+    display: block;
+    margin: auto;
+}
+
+.link18{
+    display: block;
+    margin: auto;
 }

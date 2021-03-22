@@ -63,13 +63,3 @@ document.getElementById("text-button6").onclick = function () {	// 適当に選�
     myRnd6 = Math.floor(Math.random() * myTable6.length);
     window.location.href = myTable6[myRnd6];
 }
-
-document.getElementById("fixed_btn_first").onclick = function (){
-    window.location.href = "#pagetop";
-}
-
-document.getElementById("fixed_btn_home").onclick = function (){
-    window.location.href = "http://localhost:63342/Big-Pad-01/index.html?_ijt=4jh9tb2hokf0mvecedop9h8q20";
-}
-
-setTimeout(function(){location.href="http://localhost:63342/Big-Pad-01/index.html?_ijt=7bno6imqsvdfmrqed9scgddel0"} , 8000);
