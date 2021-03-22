@@ -24,7 +24,7 @@ target.addEventListener('click', () => {
     target.style.display = "none";
 }, false);
 
-
+setTimeout(function(){location.href="http://localhost:63342/Big-Pad-01/index.html"} , 8000);
 
 
 
