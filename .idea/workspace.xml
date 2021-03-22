@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="543b357a-d334-4f98-bee9-ae7501155db7" name="Default Changelist" comment="" />
+    <list default="true" id="543b357a-d334-4f98-bee9-ae7501155db7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hana/ohana.js" beforeDir="false" afterPath="$PROJECT_DIR$/hana/ohana.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kankou/kankou--.js" beforeDir="false" afterPath="$PROJECT_DIR$/kankou/kankou--.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kitikiti.js" beforeDir="false" afterPath="$PROJECT_DIR$/kitikiti.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/osake/beer.js" beforeDir="false" afterPath="$PROJECT_DIR$/osake/beer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,16 +43,16 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\hirot\Big-Pad-01\slot\images" />
-      <recent name="C:\Users\hirot\Big-Pad-01\slot\images-omikuji" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="C:\Users\hirot\Big-Pad-01\hana" />
       <recent name="C:\Users\hirot\Big-Pad-01\kankou" />
       <recent name="C:\Users\hirot\Big-Pad-01\osake" />
       <recent name="C:\Users\hirot\Big-Pad-01" />
-      <recent name="C:\Users\hirot\Big-Pad-01\hana\.idea" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hirot\Big-Pad-01\slot\images" />
+      <recent name="C:\Users\hirot\Big-Pad-01\slot\images-omikuji" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

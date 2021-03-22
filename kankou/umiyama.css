@@ -9,15 +9,16 @@
 
 .btn-square-shadow {
     display: inline-block;
-    padding: 0.5em 1em;
+    padding: 1em 0.5em;
     text-decoration: none;
     background: #668ad8; /*ボタン色*/
     color: #FFF;
     border-bottom: solid 4px #627295;
     border-radius: 3px;
     position: absolute;
-    right: 360px;
-    bottom: 30px;
+    right: 600px;
+    bottom: 28px;
+    font-size: 25px;
 }
 
 .btn-square-shadow:active {

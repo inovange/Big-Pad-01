@@ -8,3 +8,5 @@ function myRndLink() {
     windowT = window.open(myTable[myRnd]);
 }
 let windowT;
+
+setTimeout(function(){location.href="/Big-Pad-01/index.html"} , 300000);
