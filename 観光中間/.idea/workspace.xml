@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f11edf1d-92b2-41c8-aa66-a8a3d54d5414" name="Default Changelist" comment="" />
+    <list default="true" id="f11edf1d-92b2-41c8-aa66-a8a3d54d5414" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../今日の酒/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../今日の酒/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../花/hana-box/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../花/hana-box/08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../花/hana-box/09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kankou---.html" beforeDir="false" afterPath="$PROJECT_DIR$/kankou---.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kankou--.js" beforeDir="false" afterPath="$PROJECT_DIR$/kankou--.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/umiyama.css" beforeDir="false" afterPath="$PROJECT_DIR$/umiyama.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +26,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1oc19EmB6jjQDO3kp7GcIQl3E44" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,6 +73,7 @@
       <workItem from="1615820269259" duration="1632000" />
       <workItem from="1616073651255" duration="989000" />
       <workItem from="1616317783640" duration="7632000" />
+      <workItem from="1616402938839" duration="3557000" />
     </task>
     <servers />
   </component>
@@ -65,20 +81,13 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="354" y="132" key="#Inspections" timestamp="1616323519468">
+    <state x="354" y="132" key="#Inspections" timestamp="1616405478331">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="354" y="132" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1616323519468" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/kankou--.js</url>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="354" y="132" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1616405478331" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1616405605994">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1616405605994" />
   </component>
 </project>

@@ -12,6 +12,7 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -31,6 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.last.introduce.type" value="LET" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -55,6 +57,10 @@
       <workItem from="1615198913840" duration="1194000" />
       <workItem from="1615538559161" duration="522000" />
       <workItem from="1616066326918" duration="3880000" />
+      <workItem from="1616390195178" duration="638000" />
+      <workItem from="1616391073518" duration="88000" />
+      <workItem from="1616391237217" duration="70000" />
+      <workItem from="1616391321000" duration="8074000" />
     </task>
     <servers />
   </component>

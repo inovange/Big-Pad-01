@@ -1,0 +1,23 @@
+.nisizawa {
+    position:relative;
+    left:640px;
+    top:500px;
+}
+#item_1 {
+    background-color: #c3a8e1;
+    box-shadow: 0px 3px #000080;
+    width: 100px;
+    text-align: center;
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+    line-height: 30px;
+    border-radius: 50px;
+}
+
+#item_1:active {
+    box-shadow: none;
+    position: relative;
+    top: 3px;
+}
+
