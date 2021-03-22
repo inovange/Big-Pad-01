@@ -6,4 +6,4 @@ function onClick() {
     document.getElementById("omikuji").alt = resultText;
 }
 
-setTimeout(function(){location.href="./index.html"} , 8000);
+setTimeout(function(){location.href="/Big-Pad-01/index.html"} , 300000);

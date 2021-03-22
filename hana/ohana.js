@@ -23,7 +23,7 @@ target.addEventListener('click', () => {
     target.style.display = "none";
 }, false);
 
-
+setTimeout(function(){location.href="/Big-Pad-01/index.html"} , 300000);
 
 
 
