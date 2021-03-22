@@ -21,7 +21,9 @@ html,body{
 /*slot枠線の親要素*/
 .slot-container{
     margin: 0 auto;
-    width: 600px;
+    width: 60%;
+    position: absolute;
+    left: 25%;
 }
 /*slotの図柄*/
 .wrapper img{
@@ -41,11 +43,12 @@ html,body{
 }
 /*startボタン*/
 input[type="button"] {
-    margin-top: 360px;
-    height: 50px;
-    width: 200px;
-    margin-left: 200px;
+    height: 10%;
+    width: 18%;
     font-size: x-large;
+    position: absolute;
+    top: 90%;
+    left: 41%;
     animation: flash 1s ease infinite alternate;
 }
 @keyframes flash {
@@ -67,4 +70,10 @@ input[type="button"] {
         opacity: 1;
         color:#ff1493;
     }
+}
+
+.main-container{
+    height: 100vh;
+    width: 100%;
+    position: relative;
 }
