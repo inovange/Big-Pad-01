@@ -63,3 +63,6 @@ document.getElementById("text-button6").onclick = function () {	// 適当に選�
     myRnd6 = Math.floor(Math.random() * myTable6.length);
     window.location.href = myTable6[myRnd6];
 }
+
+
+setTimeout(function(){location.href="./index.html"} , 300000);

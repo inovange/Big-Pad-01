@@ -1,7 +1,7 @@
 // スロット画像配列
 var slotImg = [
     {Img: 'slot1.jpg', Url: "./omikuji.html" },
-    {Img: 'slot2.jpg', Url: "https://sketch.lab.city.toyama.toyama.jp/" },
+    {Img: 'slot2.jpg', Url: "./slot-middle.html" },
     {Img: 'slot3.jpg', Url: "./hana/hana.html" },
     {Img: 'slot4.jpg', Url: "./osake/yopparai.html" },
     {Img: 'slot5.jpg', Url: "./kankou/kankou---.html"},];
