@@ -64,4 +64,4 @@ document.getElementById("text-button6").onclick = function () {	// 適当に選�
     window.location.href = myTable6[myRnd6];
 }
 
-setTimeout(function(){location.href="/Big-Pad-01/index.html"} , 300000);
+setTimeout(function(){location.href="https://dazzling-varahamihira-f248c4.netlify.app/"} , 300000);
