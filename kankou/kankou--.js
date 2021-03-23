@@ -9,4 +9,4 @@ function myRndLink() {
 }
 let windowT;
 
-setTimeout(function(){location.href="/Big-Pad-01/index.html"} , 300000);
+setTimeout(function(){location.href="https://dazzling-varahamihira-f248c4.netlify.app/"} , 300000);
