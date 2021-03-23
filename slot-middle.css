@@ -9,3 +9,19 @@
     left: 31%;
     font-size: x-large;
 }
+
+.fixed_btn_home {
+    position: fixed;
+    bottom: 10%;
+    right: 3%;
+    display: inline-block;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    background: #4682B4; /*ボタン色*/
+    color: #4682B4; /*ボタン色と同じに*/
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);
+    border-bottom: solid 3px #627295;
+    border-radius: 3px; /*角の丸み*/
+    font-weight: bold;
+    text-shadow: -1px -1px rgba(255, 255, 255, 0.44), 1px 1px rgba(0, 0, 0, 0.38);
+}
