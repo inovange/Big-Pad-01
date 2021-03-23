@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="543b357a-d334-4f98-bee9-ae7501155db7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/hana/hana-box/01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hana/hana-box/02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hana/hana-box/03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hana/hana-box/04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hana/hana-box/05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hana/hana-box/06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hana/hana-box/07.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hana/hana-box/08.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hana/hana-box/09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hana/hana-box/10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hana/hana-box/11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hana/hana-box/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kankou/kankou---.html" beforeDir="false" afterPath="$PROJECT_DIR$/kankou/kankou---.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kankou/kankou1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kankou/kankou11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kankou/umiyama.css" beforeDir="false" afterPath="$PROJECT_DIR$/kankou/umiyama.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
